@@ -56,7 +56,7 @@ An interactive Tableau dashboard designed to analyze IBM's employee data across 
 ---
 
 ### 📋 Employee Report Preview
-![IBM Employee Report](ibm.png) <!-- Replace with the actual path if hosted -->
+![IBM Employee Report](ibm_hr_report.png) <!-- Replace with the actual path if hosted -->
 
 ---
 
