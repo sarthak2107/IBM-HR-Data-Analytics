@@ -72,8 +72,8 @@ An interactive Tableau dashboard designed to analyze IBM's employee data across 
 ## 📁 Files Included
 
 - `IBM HR Data Analysis.twbx` – Tableau packaged workbook  
-- `ibm_hr_report.png` – Dashboard preview image  
-- `dashboard.png` – Departmental analysis dashboard  
+- `dashboard.png` – Dashboard preview image  
+- `ibm_hr_report.png` – Employee Report   
 
 ---
 
