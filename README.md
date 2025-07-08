@@ -62,7 +62,7 @@ An interactive Tableau dashboard designed to analyze IBM's employee data across 
 
 ## 🛠 Tools & Technologies Used
 
-- **Tableau Desktop**
+- **Tableau Public**
 - **Calculated Fields & Filters**
 - **Pie Charts, Bar Graphs, Line Charts, Tree Maps**
 - **Interactive Dashboard Design**
